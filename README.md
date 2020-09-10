@@ -1,2 +1,4 @@
 # hello-world
-first repository
+ Hi 'mans!
+ 
+ Andrea here... trying out Git-hub for the first time.
